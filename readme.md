@@ -2,7 +2,7 @@
 
 Front-end Web do projeto produzido durante a Next Level Week Heat (NLW Heat) da **Rocketseat**
 
-Este projeto faz a criação do projeto ReactJs utilizando o Vite, exercita o uso de Typescript, CSS Modules e o conceito de real-time com o Socket.io, além de fazer autenticação usando o GitHub com nosso back-end [NLW-Heat]([https://link](https://github.com/gregory-bonassina/nlw-heat)) feito em Node.js
+Este projeto faz a criação do projeto ReactJs utilizando o Vite, exercita o uso de Typescript, CSS Modules e o conceito de real-time com o Socket.io, além de fazer autenticação usando o GitHub com nosso back-end [NLW-Heat](https://github.com/gregory-bonassina/nlw-heat) feito em Node.js
 
 ## Tecnologias
 
